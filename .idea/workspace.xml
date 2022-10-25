@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4f6ba7c-71e2-4853-ac21-c08850238c97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GOD5Y0oLVokcIlGLaawyWK1H1K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4f6ba7c-71e2-4853-ac21-c08850238c97" name="Changes" comment="" />
+      <created>1666250553768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666250553768</updated>
+      <workItem from="1666250555374" duration="82000" />
+      <workItem from="1666250666115" duration="28000" />
+      <workItem from="1666250723746" duration="12000" />
+      <workItem from="1666250778468" duration="2552000" />
+      <workItem from="1666253431494" duration="208000" />
+      <workItem from="1666253705281" duration="1009000" />
+      <workItem from="1666256059715" duration="403000" />
+      <workItem from="1666277399223" duration="30000" />
+      <workItem from="1666417285718" duration="9815000" />
+      <workItem from="1666462734750" duration="509000" />
+      <workItem from="1666499718311" duration="2395000" />
+      <workItem from="1666502951640" duration="5899000" />
+      <workItem from="1666510743367" duration="22000" />
+      <workItem from="1666521056265" duration="57000" />
+      <workItem from="1666624375002" duration="180000" />
+      <workItem from="1666624793957" duration="263000" />
+      <workItem from="1666625228390" duration="56000" />
+      <workItem from="1666674531622" duration="700000" />
+      <workItem from="1666675280989" duration="205000" />
+      <workItem from="1666675599770" duration="27000" />
+      <workItem from="1666675675706" duration="11000" />
+      <workItem from="1666675716786" duration="45000" />
+      <workItem from="1666676198239" duration="103000" />
+      <workItem from="1666681695377" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
